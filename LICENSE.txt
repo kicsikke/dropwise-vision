@@ -1,1 +1,16 @@
+Copyright © 2025 Kata Tenyi
 
+This repository contains the original concept, design documentation, vocabulary system, and product vision for Dropwise™ — a metaphor-driven time and energy management tool.
+
+All content in this repository is the intellectual property of the author.
+
+This is NOT an open-source project.  
+No part of this work may be copied, reproduced, translated, adapted, modified, distributed, licensed, or used for commercial or derivative works without prior written permission from the author.
+
+The Dropwise™ name, metaphor system, and interface language are under development and intended for trademark registration.  
+This public repository serves as a timestamp of authorship and original ideation.
+
+To request permission, contact:  
+📧 kata.tenyi@gmail.com
+
+All rights reserved.
